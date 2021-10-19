@@ -3,6 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
+.listaMenu, .volverMenu{
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: white;
+    border:2px solid white;
+    border-radius:10px;
+
+}
+.listaMenu,.volverMenu:hover{
+    text-decoration: none;
+    color: grey;
+    border:2px solid grey;
+    
+
+}
 /*----------ESTILOS NAVEGADOR--------------*/
 #svg-logo {
     width: 1.5rem;
