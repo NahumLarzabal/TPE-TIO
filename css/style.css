@@ -12,7 +12,7 @@
     border-radius:10px;
 
 }
-.listaMenu,.volverMenu:hover{
+.listaMenu:hover,.volverMenu:hover{
     text-decoration: none;
     color: grey;
     border:2px solid grey;
