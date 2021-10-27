@@ -15,7 +15,7 @@
 .listaMenu:hover,.volverMenu:hover{
     text-decoration: none;
     color: grey;
-    border:2px solid grey;
+    border:3px solid blue;
     
 
 }

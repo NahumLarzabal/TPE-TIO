@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 hola soy nahum
 
-=======
 Modifico menu 
 Agrego menu vegetariano 
 -se crean ramas nuevas 
->>>>>>> 5b3d2cc5062dbbfd3ee17254b29d4e273d764ef2
